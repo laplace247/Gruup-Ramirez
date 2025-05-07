@@ -126,8 +126,8 @@ li {
   margin-bottom: 25px;
   
 }
-.carousel-indicators{
-  margin-top: px;
+.carousel-indicators {
+    margin-bottom: 20px;
 }
 .pago {
   display: flex;
